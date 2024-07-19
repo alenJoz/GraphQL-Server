@@ -1,0 +1,26 @@
+[
+    {
+        "id": "S1001",
+        "email": "mohtasim@sample.org",
+        "firstName": "Mohtashim",
+        "lastName": "Mohammad"
+    },
+    {
+        "id": "S1002",
+        "email": "kannan@sample.org",
+        "firstName": "Kannan",
+        "lastName": "Sudhakaran"
+    },
+    {
+        "id": "S1003",
+        "email": "kiran@sample.org",
+        "firstName": "Kiran",
+        "lastName": "john"
+    },
+    {
+        "id": "S1004",
+        "email": "kiran@sample.org",
+        "firstName": "Tim",
+        "lastName": "George"
+    }
+]
